@@ -26,44 +26,45 @@
 - 울타리 잘라내기 (FENCE)
 
 #### 2015.12.22
-- 팬미팅 (FANMEETING)
+- ~~팬미팅 (FANMEETING)~~
 - 와일드카드 (WILDCARD)
+- 합친 LIS (JLIS)
 
 #### 2015.12.29
-- 합친 LIS (JLIS)
 - 원주율 외우기 (PI)
+- Qantization (QUANTIZE)
 
 #### 2016.01.05
-- Qantization (QUANTIZE)
 - 비대칭 타일링 (ASYMTILING)
+- 폴리오미노 (POLY)
 
 #### 2016.01.12
-- 폴리오미노 (POLY)
 - 두니발 박사의 탈옥 (NUMB3RS)
+- 여행 짐 싸기 (PACKING)
 
 #### 2016.01.19
-- 여행 짐 싸기 (PACKING)
-- 광학 문자 인식 (OCR)
-
-#### 2016.01.26
-- k번째 최대 증가 부분 수열 (KLIS)
 - 드래곤 커브 (DRAGON)
-
-#### 2016.02.02
-- 웨브바짐 (ZIMBABW)
 - 실험 데이터 복구하기 (RESTORE)
 
-#### 2016.02.09
+#### 2016.01.26
 - 숫자 게임 (NUMBERGAME)
 - 블록 게임 (BLOCKG)
 
-#### 2016.02.16
+#### 2016.02.02
 - 회전초밥 (SUSHI)
 - 지니어스 (GENIUS)
 
-#### 2016.02.23
+#### 2016.02.09
 - 도시락데우기(LUNCHBOX)
 - 문자열합치기(STRJOI)
+
+#### 2016.02.16
+- 게임판덮기2(BOARDCOVER2)
+- 알러지가심한친구들(ALLERGY)
+
+#### 2016.02.23
+- 카쿠로(KAKURO2)
+- 남극기지(ARCTIC)
 
 ....계속
 

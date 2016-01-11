@@ -15,17 +15,17 @@ solution description
 def get_numb3rs(towns, r_town, start, day):
     prob = {start:1.0}
 
-    for i in xrange(day):
+    for _ in xrange(day):
         tmp_prob = {}
         for town in prob.keys():
             tot = float(sum(towns[town]))
-            for index, isRoad in enumerate(towns[town]):
+            for i, isRoad in enumerate(towns[town]):
                 if isRoad == 1:
                     c_prob = prob[town] * (1.0 / tot)
-                    if index not in tmp_prob:
-                        tmp_prob[index] = c_prob
+                    if i not in tmp_prob:
+                        tmp_prob[i] = c_prob
                     else:
-                        tmp_prob[index] += c_prob
+                        tmp_prob[i] += c_prob
         prob = tmp_prob
 
     result = []
@@ -39,18 +39,20 @@ def get_numb3rs(towns, r_town, start, day):
 
 
 # process input
+splitInput = lambda :map(int, raw_input().split())
+
 tc = int(raw_input())
 
-for i in xrange(tc):
-    town, day, start = map(int, raw_input().split())
+for _ in xrange(tc):
+    town, day, start = splitInput()
 
     # read town roads
     towns = []
-    for i in xrange(town):
-        towns.append( map(int, raw_input().split()) )
+    for _ in xrange(town):
+        towns.append( splitInput() )
 
     raw_input() # pass the number of town to print result
-    r_town = map(int, raw_input().split())
+    r_town = splitInput()
 
     result = get_numb3rs(towns, r_town, start, day)
 

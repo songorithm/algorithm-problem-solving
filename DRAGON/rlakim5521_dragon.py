@@ -16,7 +16,10 @@ def getNotBigPowerOfTwo(index):
 #  F X + Y F + F X - Y F + F X + Y F - F X - Y F + F X + Y F + F X - Y F - F X + Y F - F X - Y F +
 #      3     6     9    12    15    18    21    24    27    30    33    36    39    42    45    48
 #  3*2^0 3*2^1       3*2^2                   3*2^3                                           3*2^4
-#        3*(2^1+2^0)       3*(2^2+2^1)                         3*(2^3+2^2) 
+#        3*(2^1+2^0)       3*(2^2+2^1)                         3*(2^3+2^2)
+#
+# Also, if a character of Mth index (M is neither (3 * 2^n) nor (3 * (2^n + 2^(n-1)))),
+# the character of Mth index is equal to a character of (M - 3 * a biggest power of two number which is smaller than M)th index.
 def getOperator(index):
     notBigPowerOfTwo = getNotBigPowerOfTwo(index)
     

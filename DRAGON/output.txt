@@ -1,0 +1,4 @@
+FX
+FX+YF
++FX-Y
+FX-YF-FX+YF+FX-YF-FX+YF-FX-YF-

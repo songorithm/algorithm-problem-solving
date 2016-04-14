@@ -22,3 +22,19 @@ Two adjacent configurations given in the input will always be different. It is a
 ### Output
 Print exactly one line for each test case.  
 The line should contain the minimum number of ticks required to open the safe.  
+
+### Sample
+* Input
+  * 2
+  * 3
+  * abbab
+  * babab
+  * ababb
+  * bbaba
+  * 2
+  * RMDCMRCD
+  * MRCDRMDC
+  * DCMRCDRM
+* Output
+  * 6
+  * 10

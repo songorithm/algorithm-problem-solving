@@ -3,7 +3,8 @@
 Jaeha just bought a new children’s safe to store his valuables.  
 The safe uses a dial to lock the door, and on the rim of dial are drawn pictures of cute animals instead of numbers.  
 To open the safe, Jaeha must rotate the dial to reach certain positions, alternating direction each time.  
-![Image](img_1.png)
+![Image](img_1.png)  
+
 The above pictures show an example of how the safe can be opened.  
 Picture (a) shows the dial’s current position. Jaeha needs to rotate the dial clockwise until position (b) is reached. Then Jaeha needs to rotate the dial counterclockwise until position (c) appears, and then the safe will open.  
 Jaeha wants to be careful, so he only rotates the dial one tick at a time. A tick means a picture drawn

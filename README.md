@@ -18,93 +18,93 @@
 
 ## 일정
 #### 2015.12.08 - 오리엔테이션
-- 게임판 덮기(BOARDCOVER)
-- 시계 맞추기(CLOCKSYNC)
+- 게임판 덮기(BOARDCOVER) [[link](https://algospot.com/judge/problem/read/BOARDCOVER)]
+- 시계 맞추기(CLOCKSYNC) [[link](https://algospot.com/judge/problem/read/CLOCKSYNC)]
 
 #### 2015.12.15
-- 쿼드 트리 뒤집기 (QUADTREE)
-- 울타리 잘라내기 (FENCE)
+- 쿼드 트리 뒤집기 (QUADTREE) [[link](https://algospot.com/judge/problem/read/QUADTREE)]
+- 울타리 잘라내기 (FENCE) [[link](https://algospot.com/judge/problem/read/FENCE)]
 
 #### 2015.12.22
-- ~~팬미팅 (FANMEETING)~~
-- 와일드카드 (WILDCARD)
-- 합친 LIS (JLIS)
+- ~~팬미팅 (FANMEETING)~~ [[link](https://algospot.com/judge/problem/read/FANMEETING)]
+- 와일드카드 (WILDCARD) [[link](https://algospot.com/judge/problem/read/WILDCARD)]
+- 합친 LIS (JLIS) [[link](https://algospot.com/judge/problem/read/JLIS)]
 
 #### 2015.12.29
-- 원주율 외우기 (PI)
-- Qantization (QUANTIZE)
+- 원주율 외우기 (PI) [[link](https://algospot.com/judge/problem/read/PI)]
+- Qantization (QUANTIZE) [[link](https://algospot.com/judge/problem/read/QUANTIZE)]
 
 #### 2016.01.05
-- 비대칭 타일링 (ASYMTILING)
-- 폴리오미노 (POLY)
+- 비대칭 타일링 (ASYMTILING) [[link](https://algospot.com/judge/problem/read/ASYMTILING)]
+- 폴리오미노 (POLY) [[link](https://algospot.com/judge/problem/read/POLY)]
 
 #### 2016.01.12
-- 두니발 박사의 탈옥 (NUMB3RS)
-- 여행 짐 싸기 (PACKING)
+- 두니발 박사의 탈옥 (NUMB3RS) [[link](https://algospot.com/judge/problem/read/NUMB3RS)]
+- 여행 짐 싸기 (PACKING) [[link](https://algospot.com/judge/problem/read/PACKING)]
 
 #### 2016.01.19
-- 드래곤 커브 (DRAGON)
-- 실험 데이터 복구하기 (RESTORE)
+- 드래곤 커브 (DRAGON) [[link](https://algospot.com/judge/problem/read/DRAGON)]
+- 실험 데이터 복구하기 (RESTORE) [[link](https://algospot.com/judge/problem/read/RESTORE)]
 
 #### 2016.02.02
-- 숫자 게임 (NUMBERGAME)
-- 블록 게임 (BLOCKG)
+- 숫자 게임 (NUMBERGAME) [[link](https://algospot.com/judge/problem/read/NUMBERGAME)]
+- 블록 게임 (BLOCKG) [[link](https://algospot.com/judge/problem/read/BLOCKG)]
 
 #### 2016.02.16
-- 회전초밥 (SUSHI)
-- 지니어스 (GENIUS)
+- 회전초밥 (SUSHI) [[link](https://algospot.com/judge/problem/read/SUSHI)]
+- 지니어스 (GENIUS) [[link](https://algospot.com/judge/problem/read/GENIUS)]
 
 #### 2016.02.23
-- 도시락데우기(LUNCHBOX)
-- 문자열합치기(STRJOI)
+- 도시락데우기(LUNCHBOX) [[link](https://algospot.com/judge/problem/read/LUNCHBOX)]
+- 문자열합치기(STRJOI) [[link](https://algospot.com/judge/problem/read/STRJOI)]
 
 #### 2016.03.08
-- 게임판덮기2(BOARDCOVER2)
-- 알러지가심한친구들(ALLERGY)
+- 게임판덮기2(BOARDCOVER2) [[link](https://algospot.com/judge/problem/read/BOARDCOVER2)]
+- 알러지가심한친구들(ALLERGY) [[link](https://algospot.com/judge/problem/read/ALLERGY)]
 
 #### 2016.03.15
-- 남극기지(ARCTIC)
-- 캐나다 여행(CANADATRIP)
+- 남극기지(ARCTIC) [[link](https://algospot.com/judge/problem/read/ARCTIC)]
+- 캐나다 여행(CANADATRIP) [[link](https://algospot.com/judge/problem/read/CANADATRIP)]
 
 #### 2016.03.22
-- 승률 올리기 (RATIO)
-- 마법의약(POTION)
+- 승률 올리기 (RATIO) [[link](https://algospot.com/judge/problem/read/RATIO)]
+- 마법의약(POTION) [[link](https://algospot.com/judge/problem/read/POTION)]
 
 #### 2016.03.29
-- 핀볼 시뮬레이션(PINBALL): 정민철
-- 보물섬(TREASURE): 장재형
+- 핀볼 시뮬레이션(PINBALL) [[link](https://algospot.com/judge/problem/read/PINBALL)] : 정민철
+- 보물섬(TREASURE) [[link](https://algospot.com/judge/problem/read/TREASURE)] : 장재형
 
 #### 2016.04.05
-- 비트마스트(GRADURATION): 김재경
-- 크리스마스 인형(CHRISTMAS): 배성호
+- 비트마스트(GRADURATION) [[link](https://algospot.com/judge/problem/read/GRADURATION)] : 김재경
+- 크리스마스 인형(CHRISTMAS) [[link](https://algospot.com/judge/problem/read/CHRISTMAS)] : 배성호
 
 #### 2016.04.12
-- 조세푸스(JOSHEPUS)
-- 짝이 맞지 않는 괄호(BRACKETS2)
+- 조세푸스(JOSHEPUS) [[link](https://algospot.com/judge/problem/read/JOSHEPUS)]
+- 짝이 맞지 않는 괄호(BRACKETS2) [[link](https://algospot.com/judge/problem/read/BRACKETS2)]
 
 #### 2016.04.19
-- 외계신호분석(ITES)
-- 재하의 금고(JAEHASAFE)
+- 외계신호분석(ITES) [[link](https://algospot.com/judge/problem/read/ITES)]
+- 재하의 금고(JAEHASAFE) [[link](https://algospot.com/judge/problem/read/JAEHASAFE)]
 
 #### 2016.04.26
-- 말버릇(HABIT)
-- 트리순회순서변경(TRAVERSAL)
+- 말버릇(HABIT) [[link](https://algospot.com/judge/problem/read/HABIT)]
+- 트리순회순서변경(TRAVERSAL) [[link](https://algospot.com/judge/problem/read/TRAVERSAL)]
 
 #### 2016.05.10
-- 요새(FORTRESS)
-- 너드인가, 너드가 아닌가?2 (NERD2)
+- 요새(FORTRESS) [[link](https://algospot.com/judge/problem/read/FORTRESS)] : 이동환 
+- 너드인가, 너드가 아닌가?2 (NERD2) [[link](https://algospot.com/judge/problem/read/NERD2)] : 김재경
 
 #### 2016.05.17
-- 변화하는 중간 값 (RUNNINGMEDIAN)
-- 등산로 (MORDOR)
+- 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 이동환 
+- 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] : 장재형 
 
 #### 2016.05.24
-- 삽입 정렬 시간 재기 (MEASURETIME)
-- 에디터 전쟁 (EDITORWARS)
+- 삽입 정렬 시간 재기 (MEASURETIME) [[link](https://algospot.com/judge/problem/read/MEASURETIME)] : OOO 
+- 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] :  OOO
 
 #### 2016.05.31
-- 안녕히, 그리고 물고기는 고마웠어요 (SOLONG)
-- 단어제한 끝말잇기 (WORDCHAIN)
+- 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : OOO 
+- 단어제한 끝말잇기 (WORDCHAIN) [[link](https://algospot.com/judge/problem/read/WORDCHAIN)] : OOO
 
 
 

@@ -94,15 +94,16 @@
 - 요새(FORTRESS) [[link](https://algospot.com/judge/problem/read/FORTRESS)] : 이동환 
 - 너드인가, 너드가 아닌가?2 (NERD2) [[link](https://algospot.com/judge/problem/read/NERD2)] : 김재경
 
-#### 2016.05.17
+~~#### 2016.05.17~~
+#### 2016.05.24
 - 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 이동환 
 - 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] : 장재형 
 
-#### 2016.05.24
-- 삽입 정렬 시간 재기 (MEASURETIME) [[link](https://algospot.com/judge/problem/read/MEASURETIME)] : OOO 
-- 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] :  OOO
-
 #### 2016.05.31
+- 삽입 정렬 시간 재기 (MEASURETIME) [[link](https://algospot.com/judge/problem/read/MEASURETIME)] : 이동환 
+- 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] :  임성광
+
+#### 2016.06.07
 - 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : OOO 
 - 단어제한 끝말잇기 (WORDCHAIN) [[link](https://algospot.com/judge/problem/read/WORDCHAIN)] : OOO
 

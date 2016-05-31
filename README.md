@@ -104,8 +104,8 @@
 - 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] :  임성광
 
 #### 2016.06.07
-- 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : OOO 
-- 단어제한 끝말잇기 (WORDCHAIN) [[link](https://algospot.com/judge/problem/read/WORDCHAIN)] : OOO
+- 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 임성광 
+- 단어제한 끝말잇기 (WORDCHAIN) [[link](https://algospot.com/judge/problem/read/WORDCHAIN)] : 이동환
 
 
 

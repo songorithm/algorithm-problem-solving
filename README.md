@@ -108,17 +108,17 @@
 - 단어제한 끝말잇기 (WORDCHAIN) [[link](https://algospot.com/judge/problem/read/WORDCHAIN)] : 이동환
 
 #### 2016.06.14
-- 감시카메라 설치(GRALLERY) : 김재경 
-- 소팅게임(SORTGAME) : 조은우
+- 감시카메라 설치(GALLERY) [[link](https://algospot.com/judge/problem/read/GALLERY)] : 김재경 
+- 소팅게임(SORTGAME) [[link](https://algospot.com/judge/problem/read/SORTGAME)] : 조은우
 
 #### 2016.06.21
-- 어린이날(CHILDRENDAY) : OOO 
-- 하노이의 탑(HANOI4B) : OOO
+- 어린이날(CHILDRENDAY) [[link](https://algospot.com/judge/problem/read/CHILDRENDAY)] : OOO 
+- 하노이의 탑(HANOI4) [[link](https://algospot.com/judge/problem/read/HANOI4)] : OOO
 
 #### 2016.06.28
-- 신호 라우팅(ROUTING) : OOO 
-- 소방차(FIRETRUCKS) : OOO
+- 신호 라우팅(ROUTING) [[link](https://algospot.com/judge/problem/read/ROUTING)] : OOO 
+- 소방차(FIRETRUCKS) [[link](https://algospot.com/judge/problem/read/FIRETRUCKS)] : OOO
 
 #### 2016.07.05
-- 시간여행(TIMETRIP) : OOO 
-- 음주 단속(DRUCKEN) : OOO
+- 시간여행(TIMETRIP) [[link](https://algospot.com/judge/problem/read/TIMETRIP)] : OOO 
+- 음주 단속(DRUCKEN) [[link](https://algospot.com/judge/problem/read/DRUNKEN)] : OOO

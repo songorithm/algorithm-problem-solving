@@ -107,5 +107,18 @@
 - 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 임성광 
 - 단어제한 끝말잇기 (WORDCHAIN) [[link](https://algospot.com/judge/problem/read/WORDCHAIN)] : 이동환
 
+#### 2016.06.14
+- 감시카메라 설치(GRALLERY) : 김재경 
+- 소팅게임(SORTGAME) : 조은우
 
+#### 2016.06.21
+- 어린이날(CHILDRENDAY) : OOO 
+- 하노이의 탑(HANOI4B) : OOO
 
+#### 2016.06.28
+- 신호 라우팅(ROUTING) : OOO 
+- 소방차(FIRETRUCKS) : OOO
+
+#### 2016.07.05
+- 시간여행(TIMETRIP) : OOO 
+- 음주 단속(DRUCKEN) : OOO

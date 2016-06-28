@@ -116,8 +116,8 @@
 - 하노이의 탑(HANOI4) [[link](https://algospot.com/judge/problem/read/HANOI4)] : 임성광
 
 #### 2016.07.05
-- 신호 라우팅(ROUTING) [[link](https://algospot.com/judge/problem/read/ROUTING)] : OOO 
-- 소방차(FIRETRUCKS) [[link](https://algospot.com/judge/problem/read/FIRETRUCKS)] : OOO
+- 신호 라우팅(ROUTING) [[link](https://algospot.com/judge/problem/read/ROUTING)] : 장정훈 
+- 소방차(FIRETRUCKS) [[link](https://algospot.com/judge/problem/read/FIRETRUCKS)] : 이동환
 
 #### 2016.07.12
 - 시간여행(TIMETRIP) [[link](https://algospot.com/judge/problem/read/TIMETRIP)] : OOO 

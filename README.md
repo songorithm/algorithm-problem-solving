@@ -112,8 +112,8 @@
 - 소팅게임(SORTGAME) [[link](https://algospot.com/judge/problem/read/SORTGAME)] : 조은우
 
 #### 2016.06.21
-- 어린이날(CHILDRENDAY) [[link](https://algospot.com/judge/problem/read/CHILDRENDAY)] : OOO 
-- 하노이의 탑(HANOI4) [[link](https://algospot.com/judge/problem/read/HANOI4)] : OOO
+- 어린이날(CHILDRENDAY) [[link](https://algospot.com/judge/problem/read/CHILDRENDAY)] : 조은우 
+- 하노이의 탑(HANOI4) [[link](https://algospot.com/judge/problem/read/HANOI4)] : 임성광
 
 #### 2016.06.28
 - 신호 라우팅(ROUTING) [[link](https://algospot.com/judge/problem/read/ROUTING)] : OOO 

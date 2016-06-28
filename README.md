@@ -111,14 +111,14 @@
 - 감시카메라 설치(GALLERY) [[link](https://algospot.com/judge/problem/read/GALLERY)] : 김재경 
 - 소팅게임(SORTGAME) [[link](https://algospot.com/judge/problem/read/SORTGAME)] : 조은우
 
-#### 2016.06.21
+#### 2016.06.28
 - 어린이날(CHILDRENDAY) [[link](https://algospot.com/judge/problem/read/CHILDRENDAY)] : 조은우 
 - 하노이의 탑(HANOI4) [[link](https://algospot.com/judge/problem/read/HANOI4)] : 임성광
 
-#### 2016.06.28
+#### 2016.07.05
 - 신호 라우팅(ROUTING) [[link](https://algospot.com/judge/problem/read/ROUTING)] : OOO 
 - 소방차(FIRETRUCKS) [[link](https://algospot.com/judge/problem/read/FIRETRUCKS)] : OOO
 
-#### 2016.07.05
+#### 2016.07.12
 - 시간여행(TIMETRIP) [[link](https://algospot.com/judge/problem/read/TIMETRIP)] : OOO 
 - 음주 단속(DRUCKEN) [[link](https://algospot.com/judge/problem/read/DRUNKEN)] : OOO

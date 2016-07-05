@@ -120,5 +120,5 @@
 - 소방차(FIRETRUCKS) [[link](https://algospot.com/judge/problem/read/FIRETRUCKS)] : 이동환
 
 #### 2016.07.12
-- 시간여행(TIMETRIP) [[link](https://algospot.com/judge/problem/read/TIMETRIP)] : OOO 
-- 음주 단속(DRUCKEN) [[link](https://algospot.com/judge/problem/read/DRUNKEN)] : OOO
+- 시간여행(TIMETRIP) [[link](https://algospot.com/judge/problem/read/TIMETRIP)] : 임성광 
+- 음주 단속(DRUCKEN) [[link](https://algospot.com/judge/problem/read/DRUNKEN)] : 김재경

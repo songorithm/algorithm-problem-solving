@@ -122,3 +122,16 @@
 #### 2016.07.12
 - 시간여행(TIMETRIP) [[link](https://algospot.com/judge/problem/read/TIMETRIP)] : 임성광 
 - 음주 단속(DRUCKEN) [[link](https://algospot.com/judge/problem/read/DRUNKEN)] : 김재경
+ 
+#### 2016.07.19
+- 선거 공약(PROMISES, 난이도: 중) [[link](https://algospot.com/judge/problem/read/PROMISES)] : 000 
+- 근거리 네트워크(LAN, 난이도: 하) [[link](https://algospot.com/judge/problem/read/LAN)] : 000
+
+#### 2016.07.26
+- 여행 경로 정하기(TPATH, 난이도: 상) [[link](https://algospot.com/judge/problem/read/TPATH)] : 000 
+- 승부조작(MATCHFIX, 난이도: 중) [[link](https://algospot.com/judge/problem/read/MATCHFIX)] : 000
+
+#### 2016.08.02
+- 국채 사업(PROJECTS, 난이도: 상) [[link](https://algospot.com/judge/problem/read/PROJECTS)] : 000 
+- 비숍(BISHOPS, 난이도: 중) [[link](https://algospot.com/judge/problem/read/BISHOPS)] : 000
+- 함정 설치(TRAPCARD, 난이도: 상) [[link](https://algospot.com/judge/problem/read/TRAPCARD)] : 00

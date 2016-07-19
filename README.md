@@ -128,10 +128,10 @@
 - 근거리 네트워크(LAN, 난이도: 하) [[link](https://algospot.com/judge/problem/read/LAN)] : 이동환
 
 #### 2016.07.26
-- 여행 경로 정하기(TPATH, 난이도: 상) [[link](https://algospot.com/judge/problem/read/TPATH)] : 000 
-- 승부조작(MATCHFIX, 난이도: 중) [[link](https://algospot.com/judge/problem/read/MATCHFIX)] : 000
+- 여행 경로 정하기(TPATH, 난이도: 상) [[link](https://algospot.com/judge/problem/read/TPATH)] : 장정훈 
+- 승부조작(MATCHFIX, 난이도: 중) [[link](https://algospot.com/judge/problem/read/MATCHFIX)] : 임성광
 
 #### 2016.08.02
-- 국채 사업(PROJECTS, 난이도: 상) [[link](https://algospot.com/judge/problem/read/PROJECTS)] : 000 
+~~- 국채 사업(PROJECTS, 난이도: 상) [[link](https://algospot.com/judge/problem/read/PROJECTS)] : 000 ~~
 - 비숍(BISHOPS, 난이도: 중) [[link](https://algospot.com/judge/problem/read/BISHOPS)] : 000
 - 함정 설치(TRAPCARD, 난이도: 상) [[link](https://algospot.com/judge/problem/read/TRAPCARD)] : 00

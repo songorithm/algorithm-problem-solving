@@ -132,6 +132,6 @@
 - 승부조작(MATCHFIX, 난이도: 중) [[link](https://algospot.com/judge/problem/read/MATCHFIX)] : 임성광
 
 #### 2016.08.02
-~~- 국채 사업(PROJECTS, 난이도: 상) [[link](https://algospot.com/judge/problem/read/PROJECTS)] : 000 ~~
+~~ - 국채 사업(PROJECTS, 난이도: 상) [[link](https://algospot.com/judge/problem/read/PROJECTS)] : 000 ~~
 - 비숍(BISHOPS, 난이도: 중) [[link](https://algospot.com/judge/problem/read/BISHOPS)] : 000
 - 함정 설치(TRAPCARD, 난이도: 상) [[link](https://algospot.com/judge/problem/read/TRAPCARD)] : 00
